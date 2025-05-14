@@ -10,3 +10,6 @@ Además, se considera la labor del bibliotecario, quien debe:
 • Registrar usuarios en el sistema.
 • Añadir libros al catálogo de la biblioteca.
 • Gestionar el inventario de libros disponibles
+
+Ajunto el link del driagrama:
+https://www.mermaidchart.com/raw/18192c87-4057-4831-9dd7-4ed4adde7b82?theme=light&version=v0.1&format=svg
